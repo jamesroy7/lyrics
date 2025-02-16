@@ -9,7 +9,7 @@ public class main {
                 "Hat is matte black\r\n" + //
                 "Got the boots that's black to match\r\n" + //
                 "Riding on a horse, ha\r\n" + //
-                "You can whip your Porsche\r\n" + //
+                "You can whip your KAWASAKI\r\n" + //
                 "I been in the valley\r\n" + //
                 "You ain't been up off the porch now");
     }
